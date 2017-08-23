@@ -1,0 +1,1 @@
+This is a Google Chrome extension which replace your Facebook news feed to beautiful kitten photos.
