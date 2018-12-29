@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
     "name": "Meoweradicator",
-    "description": "Replace your Facebook news feed to beautiful kitten photos",
-    "version": "1.2",
+    "description": "Replace your Facebook comment news feed to beautiful kitten photos",
+    "version": "1.0",
     "content_scripts": [
         {
             "matches": [
@@ -13,9 +13,6 @@
             ],
             "run_at": "document_start"
         }
-    ],
-    "permissions": [
-        "*://*.facebook.com/*"
     ],
     "browser_action":{
         "default_icon": "32.png"
