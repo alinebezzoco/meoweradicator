@@ -14,7 +14,9 @@
             "run_at": "document_start"
         }
     ],
-    "permissions": ["activeTab"],
+    "permissions": [
+        "*://*.facebook.com/*"
+    ],    
     "browser_action":{
         "default_icon": "32.png"
      },
