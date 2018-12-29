@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Meoweradicator",
-    "description": "Replace your Facebook comment news feed to beautiful kitten photos",
+    "description": "Substitui os comentários do feed de notícias do seu Facebook para fotos de gatinhos.",
     "version": "1.0",
     "content_scripts": [
         {
@@ -14,6 +14,7 @@
             "run_at": "document_start"
         }
     ],
+    "permissions": ["activeTab"],
     "browser_action":{
         "default_icon": "32.png"
      },

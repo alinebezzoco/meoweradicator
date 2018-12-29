@@ -1,5 +1,5 @@
 ## Meoweradicator 
-This is a Google Chrome extension which replace your Facebook comment news feed to beautiful kitten photos.
+Extensão para o Google Chrome que permite substituir a caixa de comentários do feed de notícias do seu Facebook para fotos lindas e fofas de gatinhos.
 
 ### Version 1.0
 Download: https://chrome.google.com/webstore/detail/meoweradicator/pgfkleipcoigoaodklecabbaihjajedc
